@@ -11,6 +11,16 @@ This project is a Financial Reporting and Analysis Dashboard built using Microso
 
 ---
 
+## 📷 Dashboard Screenshots
+
+### 📊 Overview Dashboard
+![Dashboard Overview](Screenshot%202026-07-05%20131711.png)
+
+### 📈 Detailed Analysis
+![Detailed View](Screenshot%202026-07-05%20131930.png)
+
+---
+
 ## 🎯 Objective
 - Visualize financial performance  
 - Analyze revenue, profit, and expenses  
@@ -19,25 +29,10 @@ This project is a Financial Reporting and Analysis Dashboard built using Microso
 
 ---
 
-## 📊 Dashboard Features
-- Revenue & Profit Analysis  
-- Expense Tracking  
-- Key Performance Indicators (KPIs)  
-- Monthly / Yearly Trend Analysis  
-- Interactive filters and slicers  
-
----
-
 ## 🛠 Tools Used
 - Microsoft Power BI  
 - Excel / CSV dataset  
 - Power Query for data cleaning and transformation  
-
----
-
-## 📷 Screenshots
-- Dashboard Overview  
-- Detailed Insights View  
 
 ---
 
