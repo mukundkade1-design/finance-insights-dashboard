@@ -53,4 +53,66 @@ This project is a Financial Reporting and Analysis Dashboard built using Microso
 ---
 
 ## ⭐ Purpose
-This project is created for learning and portfolio purposes to demonstrate Power BI skills in financial analysis.
+This project is created for learning and portfolio purposes to demonstrate Power BI skills in financial analysis. 
+
+# 🎬 Netflix Dashboard Analysis (Power BI)
+
+This project is a Netflix Data Analysis Dashboard built using Microsoft Power BI. It provides insights into Netflix content such as movies and TV shows, categories, ratings, and trends.
+
+---
+
+## 📁 Files Included
+- Netflix.dashboardd.pbix → Main Power BI dashboard file  
+- netflix ss.png → Dashboard screenshot  
+
+---
+
+## 🎯 Objective
+- Analyze Netflix content data  
+- Understand types of content (Movies vs TV Shows)  
+- Explore genre distribution  
+- Identify top categories and trends  
+- Gain insights into content availability over time  
+
+---
+
+## 📊 Dashboard Features
+- 🎬 Movies vs TV Shows analysis  
+- 📅 Release year trends  
+- 🌍 Country-wise content distribution  
+- 🎭 Genre / Category breakdown  
+- ⭐ Rating analysis  
+- 📌 Interactive filters (type, year, category)
+
+---
+
+## 🛠 Tools Used
+- Microsoft Power BI  
+- Excel / CSV dataset  
+- Power Query (Data Cleaning & Transformation)
+
+---
+
+## 📷 Screenshot
+![Netflix Dashboard](netflix%20ss.png)
+
+---
+
+## 🚀 How to Use
+1. Download repository  
+2. Open `Netflix.dashboardd.pbix` in Power BI Desktop  
+3. Explore dashboard using filters  
+4. Analyze Netflix data insights  
+
+---
+
+## 📌 Key Learnings
+- Data visualization in Power BI  
+- Entertainment dataset analysis  
+- Trend identification  
+- Dashboard design skills  
+
+---
+
+## ⭐ Purpose
+This project is created for learning and portfolio use to demonstrate Power BI data analysis skills using Netflix dataset.
